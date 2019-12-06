@@ -1,0 +1,9 @@
+str1=input()
+str2=input()
+if(len(str1)==len(str2)):
+    print('0')
+else:
+    if(len(str1)>len(str2)):
+        print('1')
+    else:
+        print('-1')
