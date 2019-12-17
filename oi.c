@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("0");
+    printf("O");
     while(1)printf("i");
     return 0;
 }
